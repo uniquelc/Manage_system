@@ -1,2 +1,54 @@
-# Manage_system
-Personnel Management System
+# 人事管理项目
+
+#### 技术选型采用：
+
+- [Tomcat](https://tomcat.apache.org/)
+- [JSP](https://www.runoob.com/jsp/jsp-tutorial.html)
+- [Servlet](https://www.runoob.com/servlet/servlet-intro.html)
+- [Mysql](https://www.mysql.com/)
+- [IDEA](https://www.jetbrains.com/)
+
+#### 项目简单介绍：
+
+本项目主要为管理人事信息的用处，具有增删改查功能，功能与代码也在不断完善中...
+
+项目源码中没有数据库信息，需要一张管理员数据表和一张人事信息表。
+
+
+
+###### 1、项目主页为管理员登陆界面：
+
+###### ![](D:\项目图片\login.png)
+
+
+
+###### 2、用户名或密码输入错误
+
+![](D:\项目图片\login用户名或密码错误.png)
+
+###### 3、验证码输入错误
+
+![](D:\项目图片\login验证码错误.png)
+
+###### 4、登陆成功会进入欢迎界面中转转入人事信息主页
+
+主页显示5人信息，下方有分页栏和统计信息
+
+![](D:\项目图片\用户信息展示.png)
+
+###### 5、添加用户操作
+
+![](D:\项目图片\添加信息.png)
+
+###### 6、修改用户操作
+
+默认设置姓名不可修改，并且修改前的信息回回响在修改页面中
+
+![](D:\项目图片\修改信息.png)
+
+###### 7、关键字查询功能
+
+![](D:\项目图片\关键字查询.png)
+
+![](D:\项目图片\关键字组合查询.png)
+
